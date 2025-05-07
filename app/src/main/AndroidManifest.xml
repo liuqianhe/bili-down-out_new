@@ -26,6 +26,10 @@
         <package android:name="cn.a10miaomiao.bilimiao.dev" />
         <!-- shizuku -->
         <package android:name="moe.shizuku.privileged.api" />
+        <!-- 哔哩哔哩_lu -->
+        <package android:name="tv.danmaku.bilu" />
+        <!-- 哔哩哔哩_lj -->
+        <package android:name="tv.danmaku.bilj" />
     </queries>
 
     <!--requestLegacyExternalStorage属性仅针对安卓10-->
